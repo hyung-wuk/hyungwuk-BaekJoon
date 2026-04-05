@@ -1,8 +1,8 @@
-import java.util.Scanner;
-
-public class example1157 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+//import java.util.Scanner;
+//
+//public class example1157 {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
 //        String word = sc.nextLine();
 //
 //        String[] wordarr;
@@ -83,4 +83,4 @@ public class example1157 {
 //        }
 //        return result;
 //    }
-}
+//}
